@@ -2,12 +2,6 @@
 <!-- PERFIL DE EMERSON ARAÚJO -->
 <!-- ======================================================== -->
 
-<div align="center">
-
-<!-- Banner -->
-<img src="banner.png" width="100%" alt="Banner"/>
-
-<br><br>
 
 # Olá 👋 Eu sou Emerson Araújo
 
