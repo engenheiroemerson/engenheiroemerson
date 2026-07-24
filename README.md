@@ -1,8 +1,8 @@
-<!-- ===================================================== -->
-<!-- PERFIL DE ÉMERSON ARAÚJO -->
+<!-- ==================================================== -->
+<!-- PERFIL DE EMERSON ARAÚJO -->
 <!-- ==================================================== -->
 
-style=for-the-badgedividir alinhar="centro">
+<dividir alinhar="centro">
 
 # Olá 👋 Eu sou Emerson Araújo
 
@@ -16,16 +16,19 @@ style=for-the-badgedividir alinhar="centro">
 
 <br><br>
 
-<p align="center">
+<imagem fonte="https://img.shields.io/badge/Electrical_Engineering-00599C?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Electrical_Engineering-00599C?style=for-the-badge"/>&nbsp;
-<img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge"/>&nbsp;
-<img src="https://img.shields.io/badge/Embedded_Systems-009688?style=for-the-badge"/>&nbsp;
-<img src="https://img.shields.io/badge/Industrial_Automation-607D8B?style=for-the-badge"/>&nbsp;
-<img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge"/>&nbsp;
+<imagem fonte="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge"/>
+
+<imagem fonte="https://img.shields.io/badge/Embedded_Systems-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Industrial_Automation-607D8B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Renewable_Energy-4CAF50?style=for-the-badge"/>
 
-</p>
+</div>
 
 ---
 
@@ -109,7 +112,7 @@ I enjoy designing multidisciplinary projects that combine hardware and software 
 
 <br><br>
 
-<img src="https://github-profile-summary-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=engenheiroemerson&theme=tokyonight" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=engenheiroemerson&theme=tokyonight" width="49%"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=engenheiroemerson&theme=tokyonight&utcOffset=-3" width="49%"/>
 
@@ -121,61 +124,61 @@ I enjoy designing multidisciplinary projects that combine hardware and software 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=engenheiroemerson&theme=tokyonight&hide_border=true"/>
+<imagem fonte="https://streak-stats.demolab.com?user=engenheiroemerson&tema=tokyonight&ocultar_fronteira=verdadeiro"/>
 
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=engenheiroemerson&theme=tokyo-night&hide_border=true"/>
-
-</div>
+</dividir>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 Gráfico de Contribuição
 
-<div align="center">
+<dividir alinhar="centro">
 
-<img src="https://github-profile-trophy.vercel.app/?username=engenheiroemerson&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+<imagem fonte="https://github-readme-activity-graph.vercel.app/graph?username=engenheiroemerson&tema=noite de Tóquio&ocultar_fronteira=verdadeiro"/>
 
-</div>
+</dividir>
 
 ---
 
-# 🚀 Featured Engineering Projects
+# 🏆 Troféus do GitHub
 
-| Project | Description |
+<dividir alinhar="centro">
+
+<imagem fonte="https://github-profile-trophy.vercel.app/?username=engenheiroemerson&tema=tokyonight&sem quadro=verdadeiro&coluna=4&margem-w=15&margem-h=15"/>
+
+</dividir>
+
+---
+
+# 🚀 Projetos de Engenharia em Destaque
+
+| Projeto | Descrição |
 |:--------|:------------|
-| ☀️ **Smart Dual-Axis Solar Tracking System** | Intelligent solar tracking using embedded control systems and real-time positioning. |
-| 🌍 **IoT Air Quality Monitoring System** | Cloud-connected environmental monitoring platform using IoT sensors. |
-| 💡 **Smart Street Lighting System** | Intelligent public lighting with automation and energy efficiency. |
-| ⚡ **Smart Grid Monitoring Platform** | Monitoring and analysis of electrical distribution systems. |
-| 🔋 **Battery Management System (BMS)** | Intelligent battery monitoring for electric mobility applications. |
-| 🤖 **Predictive Maintenance with AI** | Machine learning models for industrial equipment fault prediction. |
+| ☀️ **Sistema inteligente de rastreamento solar de eixo duplo** | Rastreamento solar inteligente usando sistemas de controle embarcados e posicionamento em tempo real. |
+| 🌍 **Sistema de monitoramento da qualidade do ar IoT** | Plataforma de monitoramento ambiental conectada à nuvem usando sensores IoT. |
+| 💡 **Sistema de iluminação pública inteligente** | Iluminação pública inteligente com automação e eficiência energética. |
+| ⚡ **Plataforma de monitoramento de rede inteligente** | Monitoramento e análise de sistemas de distribuição elétrica. |
+| 🔋 **Sistema de gerenciamento de bateria (BMS)** | Monitoramento inteligente de baterias para aplicações de mobilidade elétrica. |
+| 🤖 **Manutenção preditiva com IA** | Modelos de aprendizado de máquina para previsão de falhas em equipamentos industriais. |
 
 ---
 
-# 📌 Pinned Repositories
+# 📌 Repositórios Fixados
 
-- ☀️ Smart Dual-Axis Solar Tracker
-- 🤖 Predictive Maintenance with AI
-- ⚡ Smart Grid Monitoring
-- 🔋 Battery Management System
-- 🌍 IoT Air Quality Monitor
-- 🤖 Autonomous Inspection Robot
+- ☀️ Rastreador solar inteligente de eixo duplo
+- 🤖 Manutenção preditiva com IA
+- ⚡ Monitoramento de rede inteligente
+- 🔋 Sistema de gerenciamento de bateria
+- 🌍 Monitor de qualidade do ar IoT
+- 🤖 Robô de Inspeção Autônomo
 
 ---
 
-# 🎓 Education
+# 🎓 Educação
 
-## 🎓 Bachelor's Degree in Electrical Engineering
+## 🎓 Bacharelado em Engenharia Elétrica
 
-**Currently Pursuing**
+**Atualmente em busca**
 
 ### Areas of Study
 
@@ -290,10 +293,10 @@ My goal is to contribute to projects that combine innovation, efficiency, sustai
 | Focus | Expertise |
 |:------|:---------|
 | ⚡ Electrical Engineering | Power Systems & Energy |
-| 🤖 Artificial Intelligence | Machine Learning |
-| 📡 Embedded Systems | Arduino & Microcontrollers |
-| 🌐 Internet of Things | Connected Devices |
-| ⚙️ Industrial Automation | Industry 4.0 |
+| 🤖 Inteligência Artificial | Aprendizado de máquina |
+| 📡 Sistemas Embarcados | Arduino e Microcontroladores |
+| 🌐 Internet das Coisas | Dispositivos conectados |
+| ⚙️ Automação Industrial | Indústria 4.0 |
 | ☁️ Computação em Nuvem | AWS e Google Cloud |
 | 🔋 Energia Renovável | Soluções de energia inteligentes |
 | 🚗 Mobilidade Elétrica | Tecnologias EV |
