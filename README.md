@@ -1,7 +1,13 @@
-<!-- ========================================================= -->
+<!-- ======================================================== -->
 <!-- PERFIL DE EMERSON ARAÚJO -->
 <!-- ======================================================== -->
 
+<dividir alinhar="centro">
+
+<!-- Banner -->
+<imagem fonte="ativos/banner.png" largura="100%" alt="Bandeira"/>
+
+<br><br>
 
 # Olá 👋 Eu sou Emerson Araújo
 
@@ -19,13 +25,13 @@
 
 <imagem fonte="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Embedded_Systems-009688?style=for-the-badge"/>
+<imagem fonte="https://img.shields.io/badge/Embedded_Systems-009688?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Industrial_Automation-607D8B?style=for-the-badge"/>
+<imagem fonte="https://img.shields.io/badge/Industrial_Automation-607D8B?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge"/>
+<imagem fonte="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Renewable_Energy-4CAF50?style=for-the-badge"/>
+<imagem fonte="https://img.shields.io/badge/Renewable_Energy-4CAF50?style=for-the-badge"/>
 
 </div>
 
@@ -290,11 +296,6 @@ Focused on:
 
 ---
 
-
-</div>
-
----
-
 # 💡 Quote
 
 > *"Engineering is the art of turning ideas into intelligent solutions."*
@@ -303,30 +304,30 @@ Focused on:
 
 <div align="center">
 
-## ⭐ Thanks for visiting my GitHub profile!
+## ⭐ Obrigado por visitar meu perfil no GitHub!
 
-Building innovative engineering solutions through
+Construindo soluções inovadoras de engenharia através de
 
-⚡ Electrical Engineering • 🤖 Artificial Intelligence • 📡 Embedded Systems • ⚙️ Industrial Automation • ☁️ Cloud Computing • 🔋 Smart Energy
+⚡ Engenharia Elétrica • 🤖 Inteligência Artificial • 📡 Sistemas Embarcados • ⚙️ Automação Industrial • ☁️ Computação em Nuvem • 🔋 Energia Inteligente
 
-<img src="https://komarev.com/ghpvc/?username=engenheiroemerson&label=Visitors&style=for-the-badge&color=0891b2"/>
+<imagem fonte="https://komarev.com/ghpvc/?username=engenheiroemerson&rótulo=Visitantes&estilo=para o emblema&cor=0891b2"/>
 
-</div>
+</dividir>
 
-# 📫 Connect with Me
+# 📫 Conecte-se comigo
 
-<div align="center">
+<dividir alinhar="centro">
 
 <a href="https://www.linkedin.com/in/emersonsilva-eng">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<imagem fonte="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logotipo=linkedin&logoColor=branco"/>
 </a>
 
 <a href="https://github.com/engenheiroemerson">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<imagem fonte="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logotipo=github&logoColor=branco"/>
 </a>
 
 <a href="mailto:engenheiro@emersonsilva.com.br">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<imagem fonte="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logotipo=gmail&logoColor=branco"/>
 </a>
 
-</div>
+</dividir>
