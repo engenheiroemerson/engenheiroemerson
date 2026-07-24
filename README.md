@@ -1,18 +1,18 @@
 <!-- ========================================================= -->
-<!--                  EMERSON ARAÚJO PROFILE                   -->
-<!-- ========================================================= -->
+color=0891b2"
+<!-- ======================================================== -->
 
-<div align="center">
+style=for-the-badgedividir alinhar="centro">
 
-# Hi 👋 I'm Emerson Araújo
+# Olá 👋 Eu sou Emerson Araújo
 
-### Electrical Engineering Student
+### Estudante de Engenharia Elétrica
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=2500&pause=1200&color=00C8FF&center=true&vCenter=true&width=900&lines=Electrical+Engineering;Artificial+Intelligence;Embedded+Systems;Industrial+Automation;Smart+Energy;Renewable+Energy;Cloud+Computing;Robotics;Machine+Learning;Internet+of+Things;Power+Electronics"/>
+<imagem fonte="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=2500&pause=1200&color=00C8FF&center=true&vCenter=true&width=900&lines=Electrical+Engineering;Artificial+Intelligence;Embedded+Systems;Industrial+Automation;Smart+Energy;Renewable+Energy;Cloud+Computing;Robotics;Machine+Learning;Internet+of+Things;Power+Electronics"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=engenheiroemerson&label=Profile+Views&style=for-the-badge&color=0891b2"/>
+<imagem fonte="https://komarev.com/ghpvc/?username=engenheiroemerson&rótulo=Perfil+Visualizações&estilo=para o emblema&cor=0891b2"/>
 
 <br><br>
 
