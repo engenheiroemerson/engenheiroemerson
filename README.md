@@ -108,11 +108,13 @@ I enjoy designing multidisciplinary projects that combine hardware and software 
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=engenheiroemerson&theme=tokyonight&show_icons=true&hide_border=true&cache_seconds=86400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engenheiroemerson&theme=tokyonight"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=engenheiroemerson&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=engenheiroemerson&theme=tokyonight" width="49%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=engenheiroemerson&theme=tokyonight&utcOffset=-3" width="49%"/>
 
 </div>
 
@@ -295,40 +297,40 @@ My goal is to contribute to projects that combine innovation, efficiency, sustai
 | 📡 Embedded Systems | Arduino & Microcontrollers |
 | 🌐 Internet of Things | Connected Devices |
 | ⚙️ Industrial Automation | Industry 4.0 |
-| ☁️ Cloud Computing | AWS & Google Cloud |
-| 🔋 Renewable Energy | Smart Energy Solutions |
-| 🚗 Electric Mobility | EV Technologies |
+| ☁️ Computação em Nuvem | AWS e Google Cloud |
+| 🔋 Energia Renovável | Soluções de energia inteligentes |
+| 🚗 Mobilidade Elétrica | Tecnologias EV |
 
-</div>
-
----
-
-# 🤝 Open Source
-
-I enjoy sharing knowledge, learning from the developer community, and contributing to projects that promote innovation in engineering and technology.
+</dividir>
 
 ---
 
-# 📊 Profile Summary
+# 🤝 Código aberto
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engenheiroemerson&theme=tokyonight"/>
-
-</div>
+Gosto de compartilhar conhecimento, aprender com a comunidade de desenvolvedores e contribuir para projetos que promovem inovação em engenharia e tecnologia.
 
 ---
 
-<div align="center">
+# 📊 Resumo do perfil
 
-## ⭐ Thank you for visiting my GitHub profile!
+<dividir alinhar="centro">
 
-Building innovative engineering solutions through
+<imagem fonte="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engenheiroemerson&tema=tokyonight"/>
 
-**⚡ Electrical Engineering • 🤖 Artificial Intelligence • 📡 Embedded Systems • ⚙️ Industrial Automation • ☁️ Cloud Computing • 🔋 Renewable Energy**
+</dividir>
+
+---
+
+<dividir alinhar="centro">
+
+## ⭐ Obrigado por visitar meu perfil no GitHub!
+
+Construindo soluções inovadoras de engenharia em
+
+**⚡ Engenharia Elétrica • 🤖 Inteligência Artificial • 📡 Sistemas Embarcados • ⚙️ Automação Industrial • ☁️ Computação em Nuvem • 🔋 Energia Renovável**
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=engenheiroemerson&label=Visitors&style=for-the-badge&color=0891b2"/>
+<imagem fonte="https://komarev.com/ghpvc/?username=engenheiroemerson&rótulo=Visitantes&estilo=para o emblema&cor=0891b2"/>
 
-</div>
+</dividir>
