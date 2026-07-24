@@ -1,26 +1,26 @@
-<!-- ==================================================== -->
-<!-- PERFIL DE EMERSON ARAÚJO -->
-<!-- ==================================================== -->
+<!-- ===================================================== -->
+<!--                EMERSON ARAÚJO PROFILE                 -->
+<!-- ===================================================== -->
 
-<dividir alinhar="centro">
+<div align="center">
 
-# Olá 👋 Eu sou Emerson Araújo
+# Hi 👋 I'm Emerson Araújo
 
-### Estudante de Engenharia Elétrica
+### Electrical Engineering Student
 
-<imagem fonte="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Electrical+Engineering;Artificial+Intelligence;Embedded+Systems;Industrial+Automation;Internet+of+Things+(IoT);Smart+Energy;Renewable+Energy;Power+Electronics;Cloud+Computing;Machine+Learning;Robotics;Electric+Mobility"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Electrical+Engineering;Artificial+Intelligence;Embedded+Systems;Industrial+Automation;Internet+of+Things+(IoT);Smart+Energy;Renewable+Energy;Power+Electronics;Cloud+Computing;Machine+Learning;Robotics;Electric+Mobility"/>
 
 <br>
 
-<imagem fonte="https://komarev.com/ghpvc/?username=engenheiroemerson&rótulo=Perfil%20Visualizações&estilo=para o emblema&cor=0891b2"/>
+<img src="https://komarev.com/ghpvc/?username=engenheiroemerson&label=Profile%20Views&style=for-the-badge&color=0891b2"/>
 
 <br><br>
 
-<imagem fonte="https://img.shields.io/badge/Electrical_Engineering-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Electrical_Engineering-00599C?style=for-the-badge"/>
 
-<imagem fonte="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge"/>
 
-<imagem fonte="https://img.shields.io/badge/Embedded_Systems-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embedded_Systems-009688?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Industrial_Automation-607D8B?style=for-the-badge"/>
 
@@ -124,61 +124,61 @@ I enjoy designing multidisciplinary projects that combine hardware and software 
 
 <div align="center">
 
-<imagem fonte="https://streak-stats.demolab.com?user=engenheiroemerson&tema=tokyonight&ocultar_fronteira=verdadeiro"/>
+<img src="https://streak-stats.demolab.com?user=engenheiroemerson&theme=tokyonight&hide_border=true"/>
 
-</dividir>
-
----
-
-# 📈 Gráfico de Contribuição
-
-<dividir alinhar="centro">
-
-<imagem fonte="https://github-readme-activity-graph.vercel.app/graph?username=engenheiroemerson&tema=noite de Tóquio&ocultar_fronteira=verdadeiro"/>
-
-</dividir>
+</div>
 
 ---
 
-# 🏆 Troféus do GitHub
+# 📈 Contribution Graph
 
-<dividir alinhar="centro">
+<div align="center">
 
-<imagem fonte="https://github-profile-trophy.vercel.app/?username=engenheiroemerson&tema=tokyonight&sem quadro=verdadeiro&coluna=4&margem-w=15&margem-h=15"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=engenheiroemerson&theme=tokyo-night&hide_border=true"/>
 
-</dividir>
+</div>
 
 ---
 
-# 🚀 Projetos de Engenharia em Destaque
+# 🏆 GitHub Trophies
 
-| Projeto | Descrição |
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=engenheiroemerson&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 🚀 Featured Engineering Projects
+
+| Project | Description |
 |:--------|:------------|
-| ☀️ **Sistema inteligente de rastreamento solar de eixo duplo** | Rastreamento solar inteligente usando sistemas de controle embarcados e posicionamento em tempo real. |
-| 🌍 **Sistema de monitoramento da qualidade do ar IoT** | Plataforma de monitoramento ambiental conectada à nuvem usando sensores IoT. |
-| 💡 **Sistema de iluminação pública inteligente** | Iluminação pública inteligente com automação e eficiência energética. |
-| ⚡ **Plataforma de monitoramento de rede inteligente** | Monitoramento e análise de sistemas de distribuição elétrica. |
-| 🔋 **Sistema de gerenciamento de bateria (BMS)** | Monitoramento inteligente de baterias para aplicações de mobilidade elétrica. |
-| 🤖 **Manutenção preditiva com IA** | Modelos de aprendizado de máquina para previsão de falhas em equipamentos industriais. |
+| ☀️ **Smart Dual-Axis Solar Tracking System** | Intelligent solar tracking using embedded control systems and real-time positioning. |
+| 🌍 **IoT Air Quality Monitoring System** | Cloud-connected environmental monitoring platform using IoT sensors. |
+| 💡 **Smart Street Lighting System** | Intelligent public lighting with automation and energy efficiency. |
+| ⚡ **Smart Grid Monitoring Platform** | Monitoring and analysis of electrical distribution systems. |
+| 🔋 **Battery Management System (BMS)** | Intelligent battery monitoring for electric mobility applications. |
+| 🤖 **Predictive Maintenance with AI** | Machine learning models for industrial equipment fault prediction. |
 
 ---
 
-# 📌 Repositórios Fixados
+# 📌 Pinned Repositories
 
-- ☀️ Rastreador solar inteligente de eixo duplo
-- 🤖 Manutenção preditiva com IA
-- ⚡ Monitoramento de rede inteligente
-- 🔋 Sistema de gerenciamento de bateria
-- 🌍 Monitor de qualidade do ar IoT
-- 🤖 Robô de Inspeção Autônomo
+- ☀️ Smart Dual-Axis Solar Tracker
+- 🤖 Predictive Maintenance with AI
+- ⚡ Smart Grid Monitoring
+- 🔋 Battery Management System
+- 🌍 IoT Air Quality Monitor
+- 🤖 Autonomous Inspection Robot
 
 ---
 
-# 🎓 Educação
+# 🎓 Education
 
-## 🎓 Bacharelado em Engenharia Elétrica
+## 🎓 Bachelor's Degree in Electrical Engineering
 
-**Atualmente em busca**
+**Currently Pursuing**
 
 ### Areas of Study
 
@@ -293,44 +293,44 @@ My goal is to contribute to projects that combine innovation, efficiency, sustai
 | Focus | Expertise |
 |:------|:---------|
 | ⚡ Electrical Engineering | Power Systems & Energy |
-| 🤖 Inteligência Artificial | Aprendizado de máquina |
-| 📡 Sistemas Embarcados | Arduino e Microcontroladores |
-| 🌐 Internet das Coisas | Dispositivos conectados |
-| ⚙️ Automação Industrial | Indústria 4.0 |
-| ☁️ Computação em Nuvem | AWS e Google Cloud |
-| 🔋 Energia Renovável | Soluções de energia inteligentes |
-| 🚗 Mobilidade Elétrica | Tecnologias EV |
+| 🤖 Artificial Intelligence | Machine Learning |
+| 📡 Embedded Systems | Arduino & Microcontrollers |
+| 🌐 Internet of Things | Connected Devices |
+| ⚙️ Industrial Automation | Industry 4.0 |
+| ☁️ Cloud Computing | AWS & Google Cloud |
+| 🔋 Renewable Energy | Smart Energy Solutions |
+| 🚗 Electric Mobility | EV Technologies |
 
-</dividir>
-
----
-
-# 🤝 Código aberto
-
-Gosto de compartilhar conhecimento, aprender com a comunidade de desenvolvedores e contribuir para projetos que promovem inovação em engenharia e tecnologia.
+</div>
 
 ---
 
-# 📊 Resumo do perfil
+# 🤝 Open Source
 
-<dividir alinhar="centro">
-
-<imagem fonte="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engenheiroemerson&tema=tokyonight"/>
-
-</dividir>
+I enjoy sharing knowledge, learning from the developer community, and contributing to projects that promote innovation in engineering and technology.
 
 ---
 
-<dividir alinhar="centro">
+# 📊 Profile Summary
 
-## ⭐ Obrigado por visitar meu perfil no GitHub!
+<div align="center">
 
-Construindo soluções inovadoras de engenharia em
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engenheiroemerson&theme=tokyonight"/>
 
-**⚡ Engenharia Elétrica • 🤖 Inteligência Artificial • 📡 Sistemas Embarcados • ⚙️ Automação Industrial • ☁️ Computação em Nuvem • 🔋 Energia Renovável**
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Thank you for visiting my GitHub profile!
+
+Building innovative engineering solutions through
+
+**⚡ Electrical Engineering • 🤖 Artificial Intelligence • 📡 Embedded Systems • ⚙️ Industrial Automation • ☁️ Cloud Computing • 🔋 Renewable Energy**
 
 <br>
 
-<imagem fonte="https://komarev.com/ghpvc/?username=engenheiroemerson&rótulo=Visitantes&estilo=para o emblema&cor=0891b2"/>
+<img src="https://komarev.com/ghpvc/?username=engenheiroemerson&label=Visitors&style=for-the-badge&color=0891b2"/>
 
-</dividir>
+</div>
