@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Hi 👋 I'm Emerson Araújo
+# Hi 👋 I'm Émerson Araújo
 
 ### Electrical Engineering Student
 
