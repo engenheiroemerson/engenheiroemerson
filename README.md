@@ -108,9 +108,11 @@ I enjoy designing multidisciplinary projects that combine hardware and software 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=engenheiroemerson&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=engenheiroemerson&theme=tokyonight&show_icons=true&hide_border=true&cache_seconds=86400"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engenheiroemerson&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=engenheiroemerson&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 </div>
 
@@ -248,85 +250,85 @@ Currently studying:
 </a>
 
 <a href="https://github.com/engenheiroemerson">
-<imagem fonte="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logotipo=github&logoColor=branco"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:SEU_EMAIL@gmail.com">
-<imagem fonte="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logotipo=gmail&logoColor=branco"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</dividir>
+</div>
 
 ---
 
-# 🌟 Filosofia da Engenharia
+# 🌟 Engineering Philosophy
 
-> *"A engenharia é a ponte entre a inovação e o impacto no mundo real. Acredito que a tecnologia deve resolver problemas, melhorar vidas e contribuir para um futuro mais inteligente e sustentável."*
-
----
-
-# 📈 Visão Profissional
-
-Estou comprometido com o aprendizado contínuo e com o desenvolvimento de soluções de engenharia que integrem:
-
-- ⚡ Engenharia Elétrica
-- 🤖 Inteligência Artificial
-- 📡 Sistemas Embarcados
-- 🌐 Internet das Coisas (IoT)
-- ⚙️ Automação Industrial
-- ☁️ Computação em Nuvem
-- 🔋 Energia Renovável
-- 📊 Engenharia de Dados
-
-Meu objetivo é contribuir para projetos que combinem inovação, eficiência, sustentabilidade e transformação digital.
+> *"Engineering is the bridge between innovation and real-world impact. I believe technology should solve problems, improve lives, and contribute to a smarter and more sustainable future."*
 
 ---
 
-# 🏅 Destaques do GitHub
+# 📈 Professional Vision
 
-<dividir alinhar="centro">
+I am committed to continuous learning and to developing engineering solutions that integrate:
 
-| Foco | Experiência |
+- ⚡ Electrical Engineering
+- 🤖 Artificial Intelligence
+- 📡 Embedded Systems
+- 🌐 Internet of Things (IoT)
+- ⚙️ Industrial Automation
+- ☁️ Cloud Computing
+- 🔋 Renewable Energy
+- 📊 Data Engineering
+
+My goal is to contribute to projects that combine innovation, efficiency, sustainability, and digital transformation.
+
+---
+
+# 🏅 GitHub Highlights
+
+<div align="center">
+
+| Focus | Expertise |
 |:------|:---------|
-| ⚡ Engenharia Elétrica | Sistemas de energia e energia |
+| ⚡ Electrical Engineering | Power Systems & Energy |
 | 🤖 Artificial Intelligence | Machine Learning |
 | 📡 Embedded Systems | Arduino & Microcontrollers |
 | 🌐 Internet of Things | Connected Devices |
 | ⚙️ Industrial Automation | Industry 4.0 |
 | ☁️ Cloud Computing | AWS & Google Cloud |
 | 🔋 Renewable Energy | Smart Energy Solutions |
-| 🚗 Mobilidade Elétrica | Tecnologias EV |
+| 🚗 Electric Mobility | EV Technologies |
 
-</dividir>
-
----
-
-# 🤝 Código aberto
-
-Gosto de compartilhar conhecimento, aprender com a comunidade de desenvolvedores e contribuir para projetos que promovam inovação em engenharia e tecnologia.
+</div>
 
 ---
 
-# 📊 Resumo do perfil
+# 🤝 Open Source
 
-<dividir alinhar="centro">
-
-<imagem fonte="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engenheiroemerson&tema=tokyonight"/>
-
-</dividir>
+I enjoy sharing knowledge, learning from the developer community, and contributing to projects that promote innovation in engineering and technology.
 
 ---
 
-<dividir alinhar="centro">
+# 📊 Profile Summary
 
-## ⭐ Obrigado por visitar meu perfil no GitHub!
+<div align="center">
 
-Construindo soluções inovadoras de engenharia através de
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engenheiroemerson&theme=tokyonight"/>
 
-**⚡ Engenharia Elétrica • 🤖 Inteligência Artificial • 📡 Sistemas Embarcados • ⚙️ Automação Industrial • ☁️ Computação em Nuvem • 🔋 Energia Renovável**
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Thank you for visiting my GitHub profile!
+
+Building innovative engineering solutions through
+
+**⚡ Electrical Engineering • 🤖 Artificial Intelligence • 📡 Embedded Systems • ⚙️ Industrial Automation • ☁️ Cloud Computing • 🔋 Renewable Energy**
 
 <br>
 
-<imagem fonte="https://komarev.com/ghpvc/?username=engenheiroemerson&rótulo=Visitantes&estilo=para o emblema&cor=0891b2"/>
+<img src="https://komarev.com/ghpvc/?username=engenheiroemerson&label=Visitors&style=for-the-badge&color=0891b2"/>
 
-</dividir>
+</div>
