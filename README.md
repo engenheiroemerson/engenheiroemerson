@@ -32,7 +32,7 @@
 
 ---
 
-# 👨🏻‍💻 About Me
+# 👨🏿‍💻 About Me
 
 I am an Electrical Engineering student passionate about developing intelligent engineering solutions through the integration of **Electrical Engineering**, **Artificial Intelligence**, **Embedded Systems**, **Industrial Automation**, **Cloud Computing**, and **Smart Energy Technologies**.
 
