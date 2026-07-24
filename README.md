@@ -1,85 +1,44 @@
-<dividir alinhar="centro">
+<!-- ===================================================== -->
+<!--                EMERSON ARAÚJO PROFILE                 -->
+<!-- ===================================================== -->
 
-# Olá 👋 Eu sou Emerson Araújo
+<div align="center">
 
-### Estudante de Engenharia Elétrica • Inteligência Artificial • Sistemas Embarcados • Energia Inteligente • Automação Industrial
+# Hi 👋 I'm Emerson Araújo
 
-<imagem fonte="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Electrical+Engineering;Artificial+Intelligence;Embedded+Systems;Industrial+Automation;Renewable+Energy;Cloud+Computing;Robotics" />
+### Electrical Engineering Student
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Electrical+Engineering;Artificial+Intelligence;Embedded+Systems;Industrial+Automation;Internet+of+Things+(IoT);Smart+Energy;Renewable+Energy;Power+Electronics;Cloud+Computing;Machine+Learning;Robotics;Electric+Mobility"/>
 
 <br>
 
-<imagem fonte="https://komarev.com/ghpvc/?username=engenheiroemerson&rótulo=Perfil+Visualizações&cor=0891b2&estilo=para-o-emblema"/>
+<img src="https://komarev.com/ghpvc/?username=engenheiroemerson&label=Profile%20Views&style=for-the-badge&color=0891b2"/>
 
 <br><br>
 
-<imagem fonte="https://img.shields.io/badge/Electrical_Engineering-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Electrical_Engineering-00599C?style=for-the-badge"/>
 
-<imagem fonte="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge"/>
 
-<imagem fonte="https://img.shields.io/badge/Embedded_Systems-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embedded_Systems-009688?style=for-the-badge"/>
 
-<imagem fonte="https://img.shields.io/badge/Industrial_Automation-607D8B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Industrial_Automation-607D8B?style=for-the-badge"/>
 
-<imagem fonte="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge"/>
 
-<imagem fonte="https://img.shields.io/badge/Renewable_Energy-4CAF50?style=for-the-badge"/>
-
-</dividir>
-
----
-
-# 👨🏿‍💻 Sobre mim
-
-Sou apaixonado por projetar soluções de engenharia inteligentes combinando **Engenharia Elétrica**, **Inteligência Artificial**, **Sistemas Embarcados**, **Automação Industrial**, e **Tecnologias de Nuvem**.
-
----
-
-# 👨🏿‍💻 Sobre mim
-
-Sou um estudante de Engenharia Elétrica apaixonado por construir soluções inteligentes de engenharia integrando **Electrical Engineering**, **Artificial Intelligence**, **Embedded Systems**, **Industrial Automation**, **Cloud Computing**, e **Smart Energy Technologies**.
-
-I am continuously expanding my knowledge in:
-
-- ⚡ Electrical Power Systems
-- 🤖 Artificial Intelligence & Machine Learning
-- 📡 Embedded Systems
-- 🌐 Internet of Things (IoT)
-- ⚙️ Industrial Automation
-- 🔋 Renewable Energy
-- 🔌 Power Electronics
-- ☁️ Cloud Computing
-- 📊 Data Engineering
-- 📈 Predictive Maintenance
-- 🚗 Electric Mobility
-- 🤖 Robotics
-- 💡 Smart Grids
-
-My goal is to contribute to multidisciplinary engineering projects that combine electrical systems, software, embedded technologies, automation, and artificial intelligence to create smarter, safer, and more sustainable industries.
-
----
-
-# 🚀 Engineering Interests
-
-<div align="center">
-
-| ⚡ Electrical Engineering | 🤖 Artificial Intelligence | 📡 Embedded Systems |
-|:------------------------:|:--------------------------:|:-------------------:|
-| ⚙️ Industrial Automation | 🌐 Internet of Things | 🔋 Renewable Energy |
-| ⚡ Smart Grids | 🔌 Power Electronics | ☁️ Cloud Computing |
-| 📊 Data Engineering | 📈 Predictive Maintenance | 🚗 Electric Mobility |
-| 🤖 Robotics | 💡 Smart Infrastructure | 🏭 Industry 4.0 |
+<img src="https://img.shields.io/badge/Renewable_Energy-4CAF50?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💡 Core Competencies
+# 👨🏿‍💻 About Me
 
-<div align="center">
+I am an Electrical Engineering student passionate about developing intelligent engineering solutions by integrating electrical systems, embedded technologies, software engineering, artificial intelligence, and industrial automation.
 
-Electrical Engineering • Embedded Systems • Artificial Intelligence • Software Engineering • Industrial Automation • Smart Energy • Cloud Computing • IoT • Robotics • Data Engineering
+My academic interests focus on electrical power systems, embedded electronics, renewable energy, power electronics, IoT, cloud computing, robotics, machine learning, and smart infrastructure.
 
-</div>
+I enjoy designing multidisciplinary projects that combine hardware and software to improve efficiency, automation, sustainability, and digital transformation across modern industries.
 
 ---
 
@@ -89,7 +48,7 @@ Electrical Engineering • Embedded Systems • Artificial Intelligence • Soft
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,html,css,mysql"/>
 
 </div>
 
@@ -99,17 +58,17 @@ Electrical Engineering • Embedded Systems • Artificial Intelligence • Soft
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=spring,tensorflow,docker,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=spring,tensorflow,docker,git,github,linux,vscode"/>
 
 </div>
 
 ---
 
-## ☁️ Cloud & DevOps
+## ☁️ Cloud
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker"/>
 
 </div>
 
@@ -119,7 +78,7 @@ Electrical Engineering • Embedded Systems • Artificial Intelligence • Soft
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=arduino,c,cpp,python" />
+<img src="https://skillicons.dev/icons?i=arduino,c,cpp,python"/>
 
 </div>
 
@@ -145,31 +104,13 @@ Electrical Engineering • Embedded Systems • Artificial Intelligence • Soft
 
 ---
 
-## 🧰 Operating Systems & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=windows,linux,bash,git,github,vscode" />
-
-</div>
-
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/engenheiroemerson">
-<img height="180em" align="center"
-src="https://github-readme-stats.vercel.app/api?username=engenheiroemerson&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=engenheiroemerson&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-</a>
-
-<a href="https://github.com/engenheiroemerson">
-<img height="180em" align="center"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=engenheiroemerson&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engenheiroemerson&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -207,82 +148,35 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=engenheiroem
 
 # 🚀 Featured Engineering Projects
 
-<div align="center">
-
-| Project | Description | Status |
-|:--------|:------------|:------:|
-| ☀️ Smart Dual-Axis Solar Tracking System | Intelligent solar tracking using embedded control systems | 🚧 In Progress |
-| 🌍 IoT Air Quality Monitoring | Real-time environmental monitoring with IoT and Cloud | 🚧 In Progress |
-| 💡 Smart Street Lighting | Intelligent lighting system for Smart Cities | 🚧 In Progress |
-| 📚 Electrical Engineering Knowledge Hub | Educational platform for engineering students | 🚧 In Progress |
-
-</div>
+| Project | Description |
+|:--------|:------------|
+| ☀️ **Smart Dual-Axis Solar Tracking System** | Intelligent solar tracking using embedded control systems and real-time positioning. |
+| 🌍 **IoT Air Quality Monitoring System** | Cloud-connected environmental monitoring platform using IoT sensors. |
+| 💡 **Smart Street Lighting System** | Intelligent public lighting with automation and energy efficiency. |
+| ⚡ **Smart Grid Monitoring Platform** | Monitoring and analysis of electrical distribution systems. |
+| 🔋 **Battery Management System (BMS)** | Intelligent battery monitoring for electric mobility applications. |
+| 🤖 **Predictive Maintenance with AI** | Machine learning models for industrial equipment fault prediction. |
 
 ---
 
-# 📌 Current Focus
+# 📌 Pinned Repositories
 
-<div align="center">
-
-| Learning & Research |
-|:-------------------:|
-| ⚡ Electrical Engineering |
-| 🤖 Artificial Intelligence |
-| 📡 Embedded Systems |
-| 🌐 Internet of Things (IoT) |
-| ⚙️ Industrial Automation |
-| 🔋 Renewable Energy |
-| ⚡ Smart Grids |
-| 🔌 Power Electronics |
-| ☁️ Cloud Computing |
-| 📊 Data Engineering |
-| 🤖 Robotics |
-| 🚗 Electric Mobility |
-
-</div>
-
----
-
-# 🎯 Professional Goals
-
-- ⚡ Develop intelligent engineering systems.
-- 🤖 Design AI-powered engineering solutions.
-- 📡 Build embedded systems for industrial applications.
-- 🌐 Create IoT solutions for smart infrastructure.
-- 🔋 Improve renewable energy technologies.
-- ☁️ Integrate cloud computing into engineering projects.
-- 📈 Apply data analytics to industrial optimization.
-- 🚀 Contribute to innovative engineering research.
-
----
-
-# 💼 Areas of Interest
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Electrical%20Engineering-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Embedded%20Systems-teal?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Industrial%20Automation-grey?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Renewable%20Energy-green?style=for-the-badge"/>
-
-</div>
+- ☀️ Smart Dual-Axis Solar Tracker
+- 🤖 Predictive Maintenance with AI
+- ⚡ Smart Grid Monitoring
+- 🔋 Battery Management System
+- 🌍 IoT Air Quality Monitor
+- 🤖 Autonomous Inspection Robot
 
 ---
 
 # 🎓 Education
 
-## Bachelor of Electrical Engineering
+## 🎓 Bachelor's Degree in Electrical Engineering
 
 **Currently Pursuing**
 
-### Main Areas of Study
+### Areas of Study
 
 - ⚡ Electrical Power Systems
 - 🔌 Power Electronics
@@ -301,8 +195,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=engenheiroem
 
 <div align="center">
 
-| Language | Proficiency |
-|:---------|:-----------:|
+| Language | Level |
+|:---------|:-----:|
 | 🇧🇷 Portuguese | Native |
 | 🇺🇸 English | Professional Working Proficiency |
 
@@ -310,21 +204,42 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=engenheiroem
 
 ---
 
-# 📜 Certifications & Continuous Learning
+# 📚 Current Learning
 
-- 📘 Electrical Engineering
-- 🤖 Artificial Intelligence
-- ☁️ Cloud Computing
-- ⚙️ Industrial Automation
-- 📡 Embedded Systems
-- 🌐 Internet of Things (IoT)
-- 🔋 Renewable Energy
-- 📊 Data Engineering
-- 🚀 Software Engineering
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,aws,gcp,docker,arduino"/>
+
+</div>
+
+Currently studying:
+
+- Artificial Intelligence
+- Machine Learning
+- Electrical Engineering
+- Embedded Systems
+- Renewable Energy
+- Industrial Automation
+- Cloud Computing
 
 ---
 
-# 📫 Connect with Me
+# 📂 Future Projects
+
+| Project | Focus |
+|:-------|:------|
+| ⚡ Smart Grid Monitoring | Electrical Power Systems |
+| 🔋 Battery Management System | Electric Vehicles |
+| 🤖 AI Predictive Maintenance | Artificial Intelligence |
+| 📡 Industrial IoT Platform | Industry 4.0 |
+| 🚗 EV Charging Station | Electric Mobility |
+| ☀️ Solar Energy Dashboard | Renewable Energy |
+| 🏭 Digital Twin | Smart Manufacturing |
+| 🤖 Autonomous Inspection Robot | Robotics & Computer Vision |
+
+---
+
+# 📫 Connect With Me
 
 <div align="center">
 
@@ -344,11 +259,59 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=engenheiroem
 
 ---
 
-# 💬 Citação favorita
+# 🌟 Filosofia da Engenharia
+
+> *"A engenharia é a ponte entre a inovação e o impacto no mundo real. Acredito que a tecnologia deve resolver problemas, melhorar vidas e contribuir para um futuro mais inteligente e sustentável."*
+
+---
+
+# 📈 Visão Profissional
+
+Estou comprometido com o aprendizado contínuo e com o desenvolvimento de soluções de engenharia que integrem:
+
+- ⚡ Engenharia Elétrica
+- 🤖 Inteligência Artificial
+- 📡 Sistemas Embarcados
+- 🌐 Internet das Coisas (IoT)
+- ⚙️ Automação Industrial
+- ☁️ Computação em Nuvem
+- 🔋 Energia Renovável
+- 📊 Engenharia de Dados
+
+Meu objetivo é contribuir para projetos que combinem inovação, eficiência, sustentabilidade e transformação digital.
+
+---
+
+# 🏅 Destaques do GitHub
 
 <dividir alinhar="centro">
 
-> **"A engenharia transforma ideias em soluções que melhoram vidas."**
+| Foco | Experiência |
+|:------|:---------|
+| ⚡ Engenharia Elétrica | Sistemas de energia e energia |
+| 🤖 Artificial Intelligence | Machine Learning |
+| 📡 Embedded Systems | Arduino & Microcontrollers |
+| 🌐 Internet of Things | Connected Devices |
+| ⚙️ Industrial Automation | Industry 4.0 |
+| ☁️ Cloud Computing | AWS & Google Cloud |
+| 🔋 Renewable Energy | Smart Energy Solutions |
+| 🚗 Mobilidade Elétrica | Tecnologias EV |
+
+</dividir>
+
+---
+
+# 🤝 Código aberto
+
+Gosto de compartilhar conhecimento, aprender com a comunidade de desenvolvedores e contribuir para projetos que promovam inovação em engenharia e tecnologia.
+
+---
+
+# 📊 Resumo do perfil
+
+<dividir alinhar="centro">
+
+<imagem fonte="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engenheiroemerson&tema=tokyonight"/>
 
 </dividir>
 
@@ -356,14 +319,14 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=engenheiroem
 
 <dividir alinhar="centro">
 
-## ⭐ Obrigado por visitar meu GitHub!
+## ⭐ Obrigado por visitar meu perfil no GitHub!
 
-Construindo soluções inteligentes em
+Construindo soluções inovadoras de engenharia através de
 
 **⚡ Engenharia Elétrica • 🤖 Inteligência Artificial • 📡 Sistemas Embarcados • ⚙️ Automação Industrial • ☁️ Computação em Nuvem • 🔋 Energia Renovável**
 
-<br><br>
+<br>
 
-<imagem fonte="https://komarev.com/ghpvc/?username=engenheiroemerson&rótulo=Perfil+Visualizações&estilo=para o emblema&cor=0891b2"/>
+<imagem fonte="https://komarev.com/ghpvc/?username=engenheiroemerson&rótulo=Visitantes&estilo=para o emblema&cor=0891b2"/>
 
 </dividir>
