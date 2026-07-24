@@ -16,19 +16,16 @@ style=for-the-badgedividir alinhar="centro">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Electrical_Engineering-00599C?style=for-the-badge"/>
+<p align="center">
 
-<img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Embedded_Systems-009688?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Industrial_Automation-607D8B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Electrical_Engineering-00599C?style=for-the-badge"/>&nbsp;
+<img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge"/>&nbsp;
+<img src="https://img.shields.io/badge/Embedded_Systems-009688?style=for-the-badge"/>&nbsp;
+<img src="https://img.shields.io/badge/Industrial_Automation-607D8B?style=for-the-badge"/>&nbsp;
+<img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge"/>&nbsp;
 <img src="https://img.shields.io/badge/Renewable_Energy-4CAF50?style=for-the-badge"/>
 
-</div>
+</p>
 
 ---
 
