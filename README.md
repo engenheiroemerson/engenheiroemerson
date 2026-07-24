@@ -1,29 +1,29 @@
 <!-- ========================================================= -->
-<!--                  EMERSON ARAÚJO PROFILE                   -->
-<!-- ========================================================= -->
+<!-- PERFIL DE EMERSON ARAÚJO -->
+<!-- ======================================================== -->
 
 <div align="center">
 
 <!-- Banner -->
-<img src="assets/banner.png" width="100%" alt="Banner"/>
+<img src="banner.png" width="100%" alt="Banner"/>
 
 <br><br>
 
-# Hi 👋 I'm Emerson Araújo
+# Olá 👋 Eu sou Emerson Araújo
 
-### Electrical Engineering Student | Artificial Intelligence | Embedded Systems | Smart Energy | Industrial Automation
+### Estudante de Engenharia Elétrica | Inteligência Artificial | Sistemas Embarcados | Energia Inteligente | Automação Industrial
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Electrical+Engineering;Artificial+Intelligence;Embedded+Systems;Industrial+Automation;Renewable+Energy;Cloud+Computing;Robotics"/>
+<imagem fonte="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Electrical+Engineering;Artificial+Intelligence;Embedded+Systems;Industrial+Automation;Renewable+Energy;Cloud+Computing;Robotics"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=engenheiroemerson&label=Profile+Views&color=0891b2&style=for-the-badge"/>
+<imagem fonte="https://komarev.com/ghpvc/?username=engenheiroemerson&rótulo=Perfil+Visualizações&cor=0891b2&estilo=para-o-emblema"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Electrical_Engineering-00599C?style=for-the-badge"/>
+<imagem fonte="https://img.shields.io/badge/Electrical_Engineering-00599C?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge"/>
+<imagem fonte="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Embedded_Systems-009688?style=for-the-badge"/>
 
