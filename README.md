@@ -361,12 +361,6 @@ Feel free to explore my repositories and follow my journey.
 
 ---
 
-### ⚡ Building the Future Through Engineering & Technology
-
-</div>
-
----
-
 # 📫 Conecte-se comigo
 
 <dividir alinhar="centro">
