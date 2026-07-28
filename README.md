@@ -363,28 +363,32 @@ Feel free to explore my repositories and follow my journey.
 
 # 📫 Conecte-se comigo
 
-<dividir alinhar="centro">
+# 📫 Connect with Me
 
-<a href="https://www.linkedin.com/in/emerson-engineer">
-<imagem fonte="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logotipo=linkedin&logoColor=branco"/>
-</a>
-<a href="https://github.com/engenheiroemerson">
-<imagem fonte="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logotipo=github&logoColor=branco"/>
-</a>
-<a href="engenheiro.emersonaraujo@gmail.com">
-<imagem fonte="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logotipo=gmail&logoColor=branco"/>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/emerson-engineer" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-</dividir>
+<a href="https://github.com/engenheiroemerson" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="mailto:engenheiro.emersonaraujo@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
 
 ---
 
-<dividir alinhar="centro">
+<div align="center">
 
-<imagem fonte="https://komarev.com/ghpvc/?username=engenheiroemerson&rótulo=Visitantes&estilo=para o emblema&cor=0891b2"/>
+<img src="https://komarev.com/ghpvc/?username=engenheiroemerson&label=Visitors&style=for-the-badge&color=0891b2" alt="Visitors"/>
 
 <br><br>
 
-⭐ Se você gostou dos meus projetos, considere seguir meu perfil no GitHub.
+⭐ If you enjoyed my projects, consider following my GitHub profile!
 
-</dividir>
+</div>
