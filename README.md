@@ -361,8 +361,6 @@ Feel free to explore my repositories and follow my journey.
 
 ---
 
-# 📫 Conecte-se comigo
-
 # 📫 Connect with Me
 
 <div align="center">
