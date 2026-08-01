@@ -6,13 +6,13 @@
 
 # 👋 Hi, I'm Émerson Araújo
 
-### Electrical Engineering Student
+### Mechanical & Computer Engineering Student
 
-⚡ Artificial Intelligence • 📡 Embedded Systems • ☁️ Cloud Computing • 🔋 Renewable Energy
+⚡ Artificial Intelligence • 📡 Embedded Systems • ☁️ Cloud Computing • 🤖 Robotics
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Electrical+Engineering;Artificial+Intelligence;Embedded+Systems;Industrial+Automation;Internet+of+Things+(IoT);Smart+Energy;Renewable+Energy;Power+Electronics;Cloud+Computing;Machine+Learning;Robotics;Electric+Mobility"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Mechanical+Engineering;Computer+Engineering;Artificial+Intelligence;Embedded+Systems;Industrial+Automation;Internet+of+Things+(IoT);Robotics;Mechatronics;Cloud+Computing;Machine+Learning;Electric+Mobility"/>
 
 <br><br>
 
@@ -22,7 +22,9 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Electrical_Engineering-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mechanical_Engineering-CC0000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer_Engineering-00599C?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge"/>
 
@@ -32,8 +34,6 @@
 
 <img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Renewable_Energy-4CAF50?style=for-the-badge"/>
-
 </p>
 
 </div>
@@ -42,23 +42,22 @@
 
 # 👨🏿‍💻 About Me
 
-I am an Electrical Engineering student passionate about developing innovative solutions by integrating **Electrical Engineering**, **Artificial Intelligence**, **Embedded Systems**, **Industrial Automation**, and **Cloud Computing**.
+I am a Mechanical and Computer Engineering student passionate about developing innovative solutions by integrating **Mechanical Engineering**, **Computer Engineering**, **Artificial Intelligence**, **Embedded Systems**, **Industrial Automation**, and **Cloud Computing**.
 
 Currently, I am expanding my knowledge in:
 
-- ⚡ Electrical Power Systems
+- ⚙️ Mechanical Design & Mechatronics
+- 💻 Software & Computer Systems
 - 🤖 Artificial Intelligence
 - 📡 Embedded Systems
 - 🌐 Internet of Things (IoT)
 - ⚙️ Industrial Automation
-- 🔋 Renewable Energy
-- 🔌 Power Electronics
 - ☁️ Cloud Computing
 - 📊 Data Analytics
 - 🤖 Robotics
 - 🚗 Electric Mobility
 
-My goal is to contribute to multidisciplinary engineering projects that combine software, intelligent systems, automation, and sustainable energy technologies to create innovative solutions for industry and society.
+My goal is to contribute to multidisciplinary engineering projects that combine software, intelligent systems, automation, and mechanical design technologies to create innovative solutions for industry and society.
 
 ---
 
@@ -130,19 +129,17 @@ My goal is to contribute to multidisciplinary engineering projects that combine 
 
 | Area | Description |
 |:-----|:------------|
-| ⚡ Electrical Engineering | Electrical Power Systems, Protection and Distribution |
+| ⚙️ Mechanical Engineering | Mechanical Design, Biomechanics & Mechatronics |
+| 💻 Computer Engineering | Software Development, Systems & Algorithms |
 | 🤖 Artificial Intelligence | Machine Learning & Intelligent Systems |
 | 📡 Embedded Systems | Arduino, ESP32 & Microcontrollers |
 | 🌐 Internet of Things (IoT) | Smart Connected Devices |
 | ⚙️ Industrial Automation | PLCs, Sensors & Industry 4.0 |
-| 🔌 Power Electronics | Energy Conversion & Electronic Drives |
-| 🔋 Renewable Energy | Solar, Wind & Smart Energy |
-| ⚡ Smart Grids | Intelligent Electrical Networks |
+| 🤖 Robotics | Autonomous & Intelligent Systems |
 | ☁️ Cloud Computing | AWS, Google Cloud & Cloud Services |
 | 📊 Data Analytics | Data Analysis & Visualization |
 | 📈 Predictive Maintenance | AI-Based Equipment Monitoring |
-| 🚗 Electric Mobility | Electric Vehicles & Charging Systems |
-| 🤖 Robotics | Autonomous & Intelligent Systems |
+| 🚗 Electric Mobility | Electric Vehicles & Mechatronic Systems |
 | 💡 Smart Cities | Intelligent Urban Infrastructure |
 
 </div>
@@ -153,7 +150,7 @@ My goal is to contribute to multidisciplinary engineering projects that combine 
 
 <div align="center">
 
-🧠 Problem Solving • 📊 Data Analysis • 💻 Software Development • ⚡ Electrical Systems • 🤖 AI Applications • 📡 Embedded Systems • ⚙️ Automation • ☁️ Cloud Computing • 🔋 Sustainable Energy
+🧠 Problem Solving • 📊 Data Analysis • 💻 Software Development • ⚙️ Mechanical Design • 🤖 AI Applications • 📡 Embedded Systems • ⚙️ Automation • ☁️ Cloud Computing • 🤖 Robotics
 
 </div>
 
@@ -161,75 +158,51 @@ My goal is to contribute to multidisciplinary engineering projects that combine 
 
 # 🚀 Featured Projects
 
-## ☀️ Smart Dual-Axis Solar Tracking System
+## 🤖 Self-Balancing Two-Wheeled Robot
 
-**Intelligent Solar Energy Optimization**
+**Exploring Dynamic Stability Through Intelligent Robotics and Control Systems**
 
-An embedded system capable of automatically tracking the sun on two axes to maximize photovoltaic energy generation through intelligent control algorithms.
+Dynamic balancing is one of the fundamental challenges in modern robotics and control engineering. This academic project focuses on the design and development of a self-balancing two-wheeled robot capable of maintaining stability through real-time sensor feedback and control algorithms. The project integrates embedded systems, inertial sensors, control systems, and robotics to explore intelligent autonomous systems and advanced mechatronic applications.
 
 **Technologies**
 
-`Electrical Engineering` • `Arduino` • `Embedded Systems` • `Power Electronics` • `Renewable Energy`
+`Robotics` • `Embedded Systems` • `Control Systems` • `Mechatronics`
 
 ---
 
-## 🌍 IoT Air Quality Monitoring System
+## 🦾 Wearable Knee Assist Exoskeleton
 
-**Real-Time Environmental Monitoring**
+**Enhancing Human Mobility Through Intelligent Assistive Technologies**
 
-An IoT platform that collects, processes, and visualizes environmental data through cloud-connected sensors for intelligent air quality monitoring.
+Wearable robotic technologies are becoming increasingly important for enhancing human mobility and reducing physical effort in rehabilitation and industrial applications. This academic project focuses on the design and development of a wearable knee assist exoskeleton capable of providing mechanical assistance during walking and load-bearing activities. The project integrates biomechanics, mechanical design, embedded systems, sensors, and control strategies to support the development of intelligent assistive technologies.
 
 **Technologies**
 
-`IoT` • `Cloud Computing` • `Embedded Systems` • `Data Analytics`
+`Biomechanics` • `Wearable Robotics` • `Embedded Systems` • `Mechanical Design`
 
 ---
 
-## 💡 Smart Street Lighting System
+## 🚗 Automated Guided Vehicle (AGV) for Campus Logistics
 
-**Smart City Infrastructure**
+**Transforming Material Transportation Through Autonomous Mobile Robotics**
 
-An intelligent public lighting system that automatically adjusts illumination based on pedestrian and vehicle detection, improving energy efficiency and urban safety.
+Autonomous material transportation is becoming increasingly important for improving efficiency in industrial and logistics environments. This academic project focuses on the design and development of an Automated Guided Vehicle (AGV) capable of autonomously transporting materials through predefined routes using intelligent navigation, embedded systems, sensors, and wireless communication. The project integrates mechanical design, robotics, control systems, and automation technologies to support the development of smart manufacturing and Industry 4.0 solutions.
 
 **Technologies**
 
-`Industrial Automation` • `Embedded Systems` • `Power Electronics` • `Smart Cities`
+`Mobile Robotics` • `Embedded Systems` • `Autonomous Navigation` • `Industrial Automation`
 
 ---
 
-## 🤖 AI Predictive Maintenance Platform
+## 🌐 Center of Knowledge in Electrical Engineering
 
-**Machine Learning for Industrial Reliability**
+**Connecting Engineering Knowledge Through a Digital Learning Platform**
 
-A predictive maintenance platform that analyzes equipment data to identify anomalies and predict failures before they occur.
-
-**Technologies**
-
-`Artificial Intelligence` • `Python` • `Machine Learning` • `Data Engineering`
-
----
-
-## ⚡ Smart Grid Monitoring System
-
-**Intelligent Electrical Grid Monitoring**
-
-A dashboard for monitoring voltage, current, power, energy consumption, and electrical quality in real time.
+Continuous learning and knowledge sharing are fundamental to engineering education and professional development. This academic project focuses on the design and development of a digital platform dedicated to Mechanical Engineering and Computer Engineering, bringing together technical articles, educational resources, engineering concepts, academic projects, industry standards, and emerging technologies. The platform aims to support students, engineers, and industry professionals while promoting continuous learning, technical collaboration, and the dissemination of engineering knowledge through an accessible digital environment.
 
 **Technologies**
 
-`Electrical Engineering` • `Smart Grids` • `IoT` • `Cloud Computing`
-
----
-
-## 🔋 Battery Management System (BMS)
-
-**Battery Monitoring for Electric Mobility**
-
-A battery management system designed to monitor battery health, temperature, voltage, current, and charging efficiency.
-
-**Technologies**
-
-`Power Electronics` • `Embedded Systems` • `Electric Mobility`
+`Mechanical Engineering Education` • `Computer Engineering Education` • `Robotics and Automation` • `Software Development`
 
 ---
 
@@ -277,12 +250,12 @@ A battery management system designed to monitor battery health, temperature, vol
 
 ## 📌 Current Focus
 
-- ⚡ Electrical Engineering
+- ⚙️ Mechanical Engineering
+- 💻 Computer Engineering
 - 🤖 Artificial Intelligence
 - 📡 Embedded Systems
 - 🌐 Internet of Things (IoT)
 - ⚙️ Industrial Automation
-- 🔋 Renewable Energy
 - ☁️ Cloud Computing
 - 📊 Data Analytics
 - 🚗 Electric Mobility
@@ -292,22 +265,21 @@ A battery management system designed to monitor battery health, temperature, vol
 
 # 🎓 Education
 
-## Bachelor's Degree in Electrical Engineering
+## Bachelor's Degree in Mechanical Engineering & Computer Engineering
 
 **Currently Pursuing**
 
 ### Areas of Study
 
-- ⚡ Electrical Power Systems
-- 🔌 Power Electronics
+- ⚙️ Mechanical Design & Mechatronics
+- 💻 Software Engineering & Algorithms
 - ⚙️ Industrial Automation
 - 📡 Embedded Systems
 - 🤖 Artificial Intelligence
 - 🌐 Internet of Things (IoT)
 - ☁️ Cloud Computing
-- 🔋 Renewable Energy
 - 🤖 Robotics
-- 💡 Smart Grids
+- 📈 Predictive Maintenance
 
 ---
 
@@ -326,14 +298,14 @@ A battery management system designed to monitor battery health, temperature, vol
 
 # 📂 Future Projects
 
-- ⚡ Smart Grid Monitoring Platform
-- 🤖 AI Predictive Maintenance Platform
-- 🔋 Battery Management System (BMS)
-- 🚗 Electric Vehicle Charging Station
-- 🌞 Solar Energy Analytics Dashboard
-- 📡 Industrial IoT Monitoring Platform
+- 🤖 Self-Balancing Two-Wheeled Robot
+- 🦾 Wearable Knee Assist Exoskeleton
+- 🚗 Automated Guided Vehicle (AGV)
+- 🌐 Center of Knowledge Platform
 - 🤖 Autonomous Inspection Robot
 - 🏭 Digital Twin for Smart Manufacturing
+- ☁️ Cloud-Based IoT Fleet Management
+- ⚡ AI Predictive Maintenance Platform
 
 ---
 
@@ -345,7 +317,7 @@ A battery management system designed to monitor battery health, temperature, vol
 
 # 🎯 Career Objective
 
-I am continuously improving my knowledge in **Electrical Engineering**, **Artificial Intelligence**, **Embedded Systems**, **Industrial Automation**, and **Smart Energy Technologies**, aiming to contribute to innovative engineering projects that combine software, hardware, automation, and sustainable energy.
+I am continuously improving my knowledge in **Mechanical Engineering**, **Computer Engineering**, **Artificial Intelligence**, **Embedded Systems**, and **Industrial Automation**, aiming to contribute to innovative engineering projects that combine software, hardware, automation, and advanced mechatronic design.
 
 ---
 
