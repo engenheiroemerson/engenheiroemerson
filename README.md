@@ -6,13 +6,13 @@
 
 # 👋 Hi, I'm Émerson Araújo
 
-### Mechanical & Computer Engineering Student
+### Computer Engineer & Mechanical Engineering Student
 
 ⚡ Artificial Intelligence • 📡 Embedded Systems • ☁️ Cloud Computing • 🤖 Robotics
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Mechanical+Engineering;Computer+Engineering;Artificial+Intelligence;Embedded+Systems;Industrial+Automation;Internet+of+Things+(IoT);Robotics;Mechatronics;Cloud+Computing;Machine+Learning;Electric+Mobility"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Computer+Engineer;Mechanical+Engineering+Student;Artificial+Intelligence;Embedded+Systems;Industrial+Automation;Internet+of+Things+(IoT);Robotics;Mechatronics;Cloud+Computing;Machine+Learning;Electric+Mobility"/>
 
 <br><br>
 
@@ -22,9 +22,9 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Mechanical_Engineering-CC0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer_Engineer-00599C?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Computer_Engineering-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mechanical_Engineering_Student-CC0000?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge"/>
 
@@ -42,7 +42,7 @@
 
 # 👨🏿‍💻 About Me
 
-I am a Mechanical and Computer Engineering student passionate about developing innovative solutions by integrating **Mechanical Engineering**, **Computer Engineering**, **Artificial Intelligence**, **Embedded Systems**, **Industrial Automation**, and **Cloud Computing**.
+I am a Computer Engineer holding a degree, currently studying Mechanical Engineering, passionate about developing innovative solutions by integrating **Mechanical Engineering**, **Computer Engineering**, **Artificial Intelligence**, **Embedded Systems**, **Industrial Automation**, and **Cloud Computing**.
 
 Currently, I am expanding my knowledge in:
 
@@ -129,8 +129,8 @@ My goal is to contribute to multidisciplinary engineering projects that combine 
 
 | Area | Description |
 |:-----|:------------|
-| ⚙️ Mechanical Engineering | Mechanical Design, Biomechanics & Mechatronics |
 | 💻 Computer Engineering | Software Development, Systems & Algorithms |
+| ⚙️ Mechanical Engineering | Mechanical Design, Biomechanics & Mechatronics |
 | 🤖 Artificial Intelligence | Machine Learning & Intelligent Systems |
 | 📡 Embedded Systems | Arduino, ESP32 & Microcontrollers |
 | 🌐 Internet of Things (IoT) | Smart Connected Devices |
@@ -194,7 +194,7 @@ Autonomous material transportation is becoming increasingly important for improv
 
 ---
 
-## 🌐 Center of Knowledge in Electrical Engineering
+## 🌐 Center of Knowledge in Mechanical & Computer Engineering
 
 **Connecting Engineering Knowledge Through a Digital Learning Platform**
 
@@ -250,8 +250,8 @@ Continuous learning and knowledge sharing are fundamental to engineering educati
 
 ## 📌 Current Focus
 
-- ⚙️ Mechanical Engineering
 - 💻 Computer Engineering
+- ⚙️ Mechanical Engineering
 - 🤖 Artificial Intelligence
 - 📡 Embedded Systems
 - 🌐 Internet of Things (IoT)
@@ -265,14 +265,14 @@ Continuous learning and knowledge sharing are fundamental to engineering educati
 
 # 🎓 Education
 
-## Bachelor's Degree in Mechanical Engineering & Computer Engineering
+## B.S. in Computer Engineering & Mechanical Engineering (Currently Pursuing)
 
-**Currently Pursuing**
+**Computer Engineering Degree Completed | Mechanical Engineering Currently Pursuing**
 
 ### Areas of Study
 
-- ⚙️ Mechanical Design & Mechatronics
 - 💻 Software Engineering & Algorithms
+- ⚙️ Mechanical Design & Mechatronics
 - ⚙️ Industrial Automation
 - 📡 Embedded Systems
 - 🤖 Artificial Intelligence
@@ -317,7 +317,7 @@ Continuous learning and knowledge sharing are fundamental to engineering educati
 
 # 🎯 Career Objective
 
-I am continuously improving my knowledge in **Mechanical Engineering**, **Computer Engineering**, **Artificial Intelligence**, **Embedded Systems**, and **Industrial Automation**, aiming to contribute to innovative engineering projects that combine software, hardware, automation, and advanced mechatronic design.
+I am a graduated **Computer Engineer** currently pursuing a degree in **Mechanical Engineering**, continuously improving my knowledge by integrating **Artificial Intelligence**, **Embedded Systems**, and **Industrial Automation** to contribute to innovative engineering projects combining software, hardware, automation, and advanced mechatronic design.
 
 ---
 
